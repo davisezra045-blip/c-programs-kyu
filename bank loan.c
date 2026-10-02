@@ -1,5 +1,4 @@
-
-    retu#include <stdio.h>
+#include <stdio.h>
 
 //function prototype
 void checkLoan(int age, float income);
